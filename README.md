@@ -98,7 +98,7 @@ Vende uma bebida baseada nos critérios da requisição
 
 ---
 
-### Get Drink History
+### Recuperar histórico
 **Endpoint:**
 GET /drink/history
 
