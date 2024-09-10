@@ -16,6 +16,8 @@ Os requerimnetos do desafio podem ser vistos no link
 - Critério de somente aceitar a bebida nao-alcoolica 24 horas após ter tido alcoolica
 - Desenvolvimento nao foi quebrado em commits com pequenas funcionalidades 😒
 - Poucos testes 😒
+- Commit na master 😒
+- Utilizar cache
 - Utilizar swagger
 - Endpoint para adicionar tipos de bebida (?)
 
