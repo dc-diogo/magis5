@@ -19,7 +19,7 @@ Insere/Cria nova bebida no sistema
 
 **Request Body:**
 - `DrinkRequest` Objeto contém:
-  - `String name`
+  - `String operatorName`
   - `String type` (Aceita: "Alcoholic" or "Non-Alcoholic")
   - `int volume`
   - `int sectorId`
